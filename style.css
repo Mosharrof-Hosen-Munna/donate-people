@@ -165,6 +165,8 @@ body {
 }
 .card-title h3 {
   margin-top: 0;
+
+  color: #e84393;
 }
 .card-footer span {
   text-align: end;
