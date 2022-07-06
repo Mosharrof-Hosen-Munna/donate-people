@@ -39,7 +39,68 @@ body {
   font-size: 20px;
 }
 /* top banner css start */
+/* donate today css start */
+.donate-today {
+  background-color: #dff9fb;
+  padding: 45px 0;
+}
+.donate-header p,
+.donate-plan-header p,
+.get-update-header p {
+  font-size: 18px;
+  color: grey;
+}
+.donate-amount {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px auto;
+}
+.donate-amount div {
+  padding: 30px 20px;
+  font-size: 25px;
+  font-weight: bold;
+  color: grey;
+  border-radius: 5px;
+}
+.donate-active {
+  border: 2px solid #e84393;
+  background-color: #e92a8633;
+  color: #e84393 !important;
+}
+.donate-input {
+  text-align: center;
+}
+.donate-input input {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid grey;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
 
+.donation-box {
+  padding: 15px;
+  margin: 20px;
+}
+.donation-box img {
+  width: 50px;
+  background-color: #e8439336;
+  padding: 10px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+.donation-box-container {
+  background-color: white;
+  border-radius: 5px;
+  margin-top: -120px;
+  margin-bottom: 40px;
+}
+/* donate today css end */
 footer {
   background-color: black;
   text-align: center;
