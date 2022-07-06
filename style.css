@@ -101,6 +101,36 @@ body {
   margin-bottom: 40px;
 }
 /* donate today css end */
+/* donate plan css start */
+.donate-plan {
+  margin: 80px 0;
+}
+.plan-card {
+  margin-top: 40px;
+}
+.card {
+  padding: 15px 20px;
+
+  margin: 20px;
+  /* border-radius: 5px; */
+  /* box-shadow: rgb(51 51 51) -8px 9px 12px; */
+}
+.card img {
+  margin-top: 30px;
+}
+.card-para {
+  color: #444;
+}
+.card-one {
+  background-color: #e8439336;
+}
+.card-two {
+  background-color: rgba(0, 255, 255, 0.226);
+}
+.card-three {
+  background-color: rgba(220, 20, 60, 0.199);
+}
+/* donate plan css end */
 footer {
   background-color: black;
   text-align: center;
